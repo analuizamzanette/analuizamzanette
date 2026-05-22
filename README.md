@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Ana Luiza
 
-<!--
-**analuizamzanette/analuizamzanette** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mechanical & Industrial Engineer focused on energy, data and analytics.
+Currently working with portfolio risk management in the Brazilian power sector at ENGIE Brasil.
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Mechanical & Industrial Engineer graduated from UFSC
+* Working with energy markets, risk management and data analysis
+* Building skills in Python, AI and ML
+
+## Current focus
+
+* Energy market analytics
+* Power BI dashboards
+* Python for data analysis and automation
+* AI applied to business
+
+## Tech & Tools
+
+* Python
+* Power BI
+* SQL
+* Excel
+
+## Featured interests
+
+* Renewable energy
+* Electricity markets
+* Data analytics
+* Artificial intelligence
+
+## Connect with me
+
+* LinkedIn: linkedin.com/in/ana-luiza-zanette/
+* Email: analuizazanette@gmail.com
+
+---
+
+> Always learning. 
